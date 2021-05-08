@@ -1,0 +1,46 @@
+{
+    "0": {
+        "model": "Intel(R) Core(TM) i3-2370M CPU @ 2.40GHz",
+        "speed": 1054,
+        "times": {
+            "user": 200880,
+            "nice": 5190,
+            "sys": 58090,
+            "idle": 1129340,
+            "irq": 0
+        }
+    },
+    "1": {
+        "model": "Intel(R) Core(TM) i3-2370M CPU @ 2.40GHz",
+        "speed": 1279,
+        "times": {
+            "user": 209070,
+            "nice": 6260,
+            "sys": 41120,
+            "idle": 1141910,
+            "irq": 0
+        }
+    },
+    "2": {
+        "model": "Intel(R) Core(TM) i3-2370M CPU @ 2.40GHz",
+        "speed": 1010,
+        "times": {
+            "user": 207310,
+            "nice": 4350,
+            "sys": 39920,
+            "idle": 1154500,
+            "irq": 0
+        }
+    },
+    "3": {
+        "model": "Intel(R) Core(TM) i3-2370M CPU @ 2.40GHz",
+        "speed": 1167,
+        "times": {
+            "user": 208980,
+            "nice": 4600,
+            "sys": 42580,
+            "idle": 1120910,
+            "irq": 0
+        }
+    }
+}
