@@ -9,5 +9,5 @@ let cpuSpecJSON = JSON.stringify(cpuSpecObj, null, 4);
 // write to file cpu.json
 fs.writeFile("cpu.json", cpuSpecJSON, (err) => {
   if (err) throw err;
-  console.log(`File berhasil di simpan`);
+  console.log(cpuSpecJSON);
 });
